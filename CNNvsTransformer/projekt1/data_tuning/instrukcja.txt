@@ -1,0 +1,7 @@
+INSTRUKCJA GENEROWANIA DANYCH
+
+Bierzemy z kaggle tylko folder train i test
+W pliku transformations.py podajemy BASE_PATH do naszego nadrzędnego folderu (w którym są teraz 'train','test')
+Odpalamy transformations.py
+Kopiujemy test z nadrzędnego folderu do transformed
+Fajrant i cieszymy się danymi podzielonymi na 3 klasy i większym zbiorem walidacyjnym
